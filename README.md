@@ -11,8 +11,11 @@ Info:
 The information logged onto server_list.txt is as followed:
 
 -Server IP
+
 -Server Port
+
 -Player Count
+
 
 Connect the the server and run client.lua once you are in, then you type into your in-game concole "exploit_cfg" and you should get all the data on server.cfg printed into your console.
 
